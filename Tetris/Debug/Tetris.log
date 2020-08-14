@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\павел\source\repos\tetris\tetris\source.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\павел\source\repos\tetris\tetris\source.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\павел\source\repos\tetris\tetris\source.cpp(34): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\павел\source\repos\tetris\tetris\source.cpp(56): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\павел\source\repos\tetris\tetris\source.cpp(71): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\павел\source\repos\tetris\tetris\source.cpp(77): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+c:\users\павел\source\repos\tetris\tetris\source.cpp(78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\павел\source\repos\tetris\tetris\source.cpp(82): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\павел\source\repos\tetris\tetris\source.cpp(63): warning C4101: y: неиспользованная локальная переменная
+c:\users\павел\source\repos\tetris\tetris\source.cpp(63): warning C4101: x: неиспользованная локальная переменная
+  Tetris.vcxproj -> C:\Users\Павел\source\repos\Tetris\Debug\Tetris.exe
